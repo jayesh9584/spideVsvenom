@@ -1,0 +1,29 @@
+
+
+#include<iosream.h>
+#include<conio.h>
+void main()
+{
+  
+  int a,b,c,d;
+  
+  cout<<"Enter your name :  ";
+  cin>>a;
+  cout<<Enter your email id :  "<<endl;
+  cin>>b;
+  cout <<"Enter your age :  "<<endl;
+  cin>>c;
+  if (c >= 18)
+  {
+     cout<<"you are elligible "<<endl;
+
+  }
+  else{
+     cout<<"u are no elligible"<<endl;
+  return 0;
+}
+  
+
+   
+
+  
